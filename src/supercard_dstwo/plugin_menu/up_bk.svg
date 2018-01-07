@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="256"
@@ -14,9 +15,8 @@
    viewBox="0 0 67.733332 50.800001"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:version="0.92.2 (unknown)"
    sodipodi:docname="up_bk.svg"
-   inkscape:export-filename="/home/georg/Partition E/Software/Videospiele/Nintendo/Nintendo DS/NDS Software/SuperCard/SuperCard DSTWO/DSTWO-Themes/[Quellen] DSTWO-Theme_OpenDS/up_bk.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -106,6 +106,30 @@
          x="-2.1166673"
          y="246.19998" />
     </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter973"
+       x="-0.021"
+       width="1.042"
+       y="-0.027999999"
+       height="1.056">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.59266665"
+         id="feGaussianBlur975" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath979">
+      <rect
+         style="opacity:1;fill:#729fcf;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect981"
+         width="67.73333"
+         height="50.799999"
+         x="0"
+         y="246.19998" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -115,8 +139,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
-     inkscape:cx="48.692085"
-     inkscape:cy="112.33305"
+     inkscape:cx="149.17105"
+     inkscape:cy="68.815732"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -638,6 +662,16 @@
            style="fill:#12c933;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       </g>
     </g>
+    <image
+       y="246.19998"
+       x="0"
+       id="image958"
+       xlink:href="../../background_256x192.png"
+       style="image-rendering:optimizeSpeed;filter:url(#filter973)"
+       preserveAspectRatio="none"
+       height="50.799999"
+       width="67.73333"
+       clip-path="url(#clipPath979)" />
     <g
        id="g5134"
        transform="translate(0,74.643698)"

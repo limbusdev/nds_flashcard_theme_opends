@@ -15,7 +15,7 @@
    viewBox="0 0 57.414582 16.933334"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:version="0.92.2 (unknown)"
    sodipodi:docname="update_progressbg.svg">
   <defs
      id="defs2">
@@ -195,8 +195,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6"
-     inkscape:cx="98.510302"
-     inkscape:cy="8.7977553"
+     inkscape:cx="130.83082"
+     inkscape:cy="27.511634"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -219,7 +219,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -300,8 +300,8 @@
          height="4.2333336"
          x="4.4979181"
          y="307.58331"
-         rx="1.852077"
-         ry="1.852077" />
+         rx="2.1166668"
+         ry="2.1166668" />
       <rect
          ry="1.852073"
          rx="1.852073"

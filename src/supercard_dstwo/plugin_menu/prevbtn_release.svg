@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="19"
@@ -14,7 +15,7 @@
    viewBox="0 0 5.0270832 4.4979167"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:version="0.92.2 (unknown)"
    sodipodi:docname="prevbtn_release.svg"
    inkscape:export-filename="/home/georg/Partition E/Software/Videospiele/Nintendo/Nintendo DS/NDS Software/SuperCard/SuperCard DSTWO/DSTWO-Themes/[Quellen] DSTWO-Theme_OpenDS/up_bk.png"
    inkscape:export-xdpi="96"
@@ -113,6 +114,33 @@
          id="rect951-1"
          style="opacity:0.21799999;fill:#0000ff;stroke-width:0.26458332" />
     </clipPath>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient952"
+       id="radialGradient958"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.41776316,0,0,0.30635964,-1.3786183,291.66747)"
+       cx="9"
+       cy="7.9060607"
+       fx="9"
+       fy="7.9060607"
+       r="9.5" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient952">
+      <stop
+         id="stop950"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0.5"
+         id="stop960" />
+      <stop
+         id="stop948"
+         offset="1"
+         style="stop-color:#d1d3cd;stop-opacity:1" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -122,8 +150,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16"
-     inkscape:cx="0.0032270257"
-     inkscape:cy="14.444673"
+     inkscape:cx="-16.371773"
+     inkscape:cy="14.319673"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -157,7 +185,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -182,19 +210,15 @@
        id="rect1079"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc" />
-    <g
-       id="g1269"
-       transform="matrix(-1,0,0,1,5.0270833,0)">
-      <path
-         inkscape:connector-curvature="0"
-         id="rect1081"
-         d="m 0.26458333,292.76665 v 0.26458 H 0 v 3.43959 h 0.26458333 v 0.26458 H 4.7624999 v -0.26458 h 0.2645834 v -3.43959 H 4.7624999 v -0.26458 z"
-         style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:0.54714584;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="rect1040"
-         d="m 1.8520833,293.29581 v 2.91042 h 0.2645833 v -0.26458 H 2.38125 v -0.26459 h 0.2645833 v -0.26458 H 2.9104166 V 295.1479 H 3.175 v -0.26459 h 0.2645833 v -0.26458 H 3.175 v -0.26458 H 2.9104166 v -0.26459 H 2.6458333 v -0.26458 H 2.38125 V 293.5604 H 2.1166666 v -0.26459 z"
-         style="opacity:1;fill:#babdb6;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:url(#radialGradient958);fill-opacity:1;stroke:none;stroke-width:0.54714584;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 0.26458333,292.76665 v 0.26458 H 0 v 3.43959 h 0.26458333 v 0.26458 H 4.7625 v -0.26458 h 0.2645833 v -3.43959 H 4.7625 v -0.26458 z"
+       id="rect1081-6" />
+    <path
+       style="opacity:1;fill:#babdb6;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 3.175,293.29581 v 2.91042 H 2.9104167 v -0.26458 H 2.6458333 v -0.26459 H 2.38125 v -0.26458 H 2.1166667 V 295.1479 H 1.8520833 v -0.26459 H 1.5875 v -0.26458 h 0.2645833 v -0.26458 h 0.2645834 v -0.26459 H 2.38125 v -0.26458 h 0.2645833 v -0.26458 h 0.2645834 v -0.26459 z"
+       id="rect1040"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

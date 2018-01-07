@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="19"
@@ -14,13 +15,29 @@
    viewBox="0 0 5.0270832 4.4979167"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:version="0.92.2 (unknown)"
    sodipodi:docname="nextbtn_press.svg"
    inkscape:export-filename="/home/georg/Partition E/Software/Videospiele/Nintendo/Nintendo DS/NDS Software/SuperCard/SuperCard DSTWO/DSTWO-Themes/[Quellen] DSTWO-Theme_OpenDS/up_bk.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient952">
+      <stop
+         id="stop950"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0.5"
+         id="stop960" />
+      <stop
+         id="stop948"
+         offset="1"
+         style="stop-color:#d1d3cd;stop-opacity:1" />
+    </linearGradient>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath849">
@@ -113,6 +130,63 @@
          id="rect951-1"
          style="opacity:0.21799999;fill:#0000ff;stroke-width:0.26458332" />
     </clipPath>
+    <clipPath
+       id="clipPath849-75"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         y="246.19998"
+         x="0"
+         height="50.799999"
+         width="67.73333"
+         id="rect851-3"
+         style="opacity:0.21799999;fill:#0000ff;stroke-width:0.26458332" />
+    </clipPath>
+    <clipPath
+       id="clipPath1369-5"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect1371-6"
+         width="15.08125"
+         height="13.49375"
+         x="0.79374999"
+         y="385.37082"
+         rx="1.8520776"
+         ry="1.8520776" />
+    </clipPath>
+    <clipPath
+       id="clipPath1517-2"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         y="171.55629"
+         x="-7.5199102e-15"
+         height="50.799999"
+         width="67.73333"
+         id="rect1519-9"
+         style="opacity:1;fill:#007ea7;fill-opacity:1;stroke:none;stroke-width:0.48038447;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </clipPath>
+    <clipPath
+       id="clipPath949-1"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         y="246.19998"
+         x="-2.1166673"
+         height="50.799999"
+         width="67.73333"
+         id="rect951-2"
+         style="opacity:0.21799999;fill:#0000ff;stroke-width:0.26458332" />
+    </clipPath>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient952"
+       id="radialGradient958"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5789474,0,0,1.1578947,-5.210526,-2.1543861)"
+       cx="9"
+       cy="7.9060607"
+       fx="9"
+       fy="7.9060607"
+       r="9.5" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -121,9 +195,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32"
-     inkscape:cx="11.067486"
-     inkscape:cy="10.050587"
+     inkscape:zoom="8"
+     inkscape:cx="-0.94529636"
+     inkscape:cy="6.8785382"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -157,7 +231,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -183,7 +257,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc" />
     <path
-       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:2.06795287;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:url(#radialGradient958);fill-opacity:1;stroke:none;stroke-width:2.06795287;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 1 2 L 1 3 L 0 3 L 0 16 L 1 16 L 1 17 L 18 17 L 18 16 L 19 16 L 19 3 L 18 3 L 18 2 L 1 2 z "
        id="rect1081"
        transform="matrix(0.26458333,0,0,0.26458333,0,292.50206)" />

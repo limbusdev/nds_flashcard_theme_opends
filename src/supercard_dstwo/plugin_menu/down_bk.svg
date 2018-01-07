@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="256"
@@ -14,9 +15,8 @@
    viewBox="0 0 67.733332 50.800001"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:version="0.92.2 (unknown)"
    sodipodi:docname="down_bk.svg"
-   inkscape:export-filename="/home/georg/Partition E/Software/Videospiele/Nintendo/NDS Software/SuperCard/DSTWO-Theme/Top_Screen.svg.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -150,8 +150,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0000001"
-     inkscape:cx="69.805957"
-     inkscape:cy="-1.1412442"
+     inkscape:cx="63.305957"
+     inkscape:cy="22.358755"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -672,6 +672,15 @@
            style="fill:#12c933;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       </g>
     </g>
+    <image
+       y="246.19998"
+       x="0"
+       id="image1087"
+       xlink:href="../../background_256x192.png"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="50.799999"
+       width="67.73333" />
     <rect
        style="opacity:0.75;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.48038447;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1194"
