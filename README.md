@@ -1,6 +1,6 @@
 # openDS Flashcard Theme
 
-![](./src/supercard_dstwo/upper_screen.png)
+![](src/supercard_dstwo/upper_screen.png?raw=true)
 
 openDS is an open source flashcard theme / skin for cartridges that enable playing homebrew on the NDS, 2DS and 3DS.
 
@@ -9,6 +9,8 @@ openDS is an open source flashcard theme / skin for cartridges that enable playi
 * SuperCard DSONE
 * SuperCard DSTWO
 * Wood / R4i 3DS Gold Plus
+
+![](screenshot_dstwo?raw=true)
 
 # Important Notice
 
