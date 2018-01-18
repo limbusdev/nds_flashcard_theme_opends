@@ -6,9 +6,9 @@ openDS is an open source flashcard theme / skin for cartridges that enable playi
 
 # Supported Devices
 
-|SuperCard DSONE|SuperCard DSTWO|DSTWO Plugin-Menu|Wood / R4i 3DS Gold Plus|
-|-|-|-|-|
-|![](screenshots/screenshot_dsone.png)|![](screenshots/screenshot_dstwo.png)|![](screenshots/screenshot_dstwo_plugin.png)|![](screenshots/screenshot_wood.jpg)|
+|SuperCard DSONE|SuperCard DSTWO|DSTWO Plugin-Menu|Wood / R4i 3DS Gold Plus|YSMenu|
+|-|-|-|-|-|
+|![](screenshots/screenshot_dsone.png)|![](screenshots/screenshot_dstwo.png)|![](screenshots/screenshot_dstwo_plugin.png)|![](screenshots/screenshot_wood.jpg)|![](screenshots/screenshot_ysmenu.png)|
 
 # Important Notice
 
