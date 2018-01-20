@@ -31,36 +31,6 @@ openDS themes for NDS flashcards are licensed under [CC-BY-4.0](https://creative
 
 Graphics made with [GIMP](https://www.gimp.org/) and [Inkscape](https://www.inkscape.org/).
 
-# How to make your own graphics
+# Wiki
 
-## For SuperCards and Wood
-
-Note down the dimensions of the graphic, you want to design. Design it with GIMP or Inkscape. Export it to PNG. Open it with GIMP and export it to a 16 Bit Windows-Bitmap with:
-
-***File** > **Export** > **Windows-Bitmap** > **Advanced Options** > **16 Bit** > **X1 R5 G5 B5***
-
-This leads to far better quality then the 16 bit conversions of the various skin editors.
-
-## For YSMenu
-
-***File** > **Export** > **Windows-Bitmap** > **Advanced Options** > **24 Bit** > **R8 G8 B8** > **Compatibility Options** > **Don't write Color Space Information***
-
-The color values in YSMenu are a little bit strange. The Format is
-
-|-|B|G|R|
-|-|-|-|-|
-|1 Bit|5 Bit|5 Bit|5 Bit|
-
-Examples:
-
-|Color|-|B|G|R|
-|-|-|-|-|-|
-|White|1|11111|11111|11111|
-|Black|1|00000|00000|00000|
-|Blue|1|11111|00000|00000|
-|Green|1|00000|11111|00000|
-|Red|1|00000|00000|11111|
-
-Finally convert it to a Hex number with 4 positions.
-
-
+For more information and useful knowledge, visit the [Wiki](https://github.com/gembutterfly/nds_flashcard_theme_opends/wiki).
