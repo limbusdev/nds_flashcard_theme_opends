@@ -8,7 +8,7 @@ openDS is an open source flashcard theme / skin for cartridges that enable playi
 
 |SuperCard DSONE|SuperCard DSTWO|DSTWO Plugin-Menu|Wood / R4i 3DS Gold Plus|YSMenu|
 |-|-|-|-|-|
-|![](screenshots/screenshot_dsone.png)|![](screenshots/screenshot_dstwo.png)|![](screenshots/screenshot_dstwo_plugin.png)|![](screenshots/screenshot_wood.jpg)|![](screenshots/screenshot_ysmenu.png)|
+|![](screenshots/screenshot_dsone.png)|![](screenshots/screenshot_dstwo.png)|![](screenshots/screenshot_dstwo_plugin.png)|![](screenshots/screenshot_wood.png)|![](screenshots/screenshot_ysmenu.png)|
 |[Download](https://github.com/gembutterfly/nds_flashcard_theme_opends/raw/master/downloads/openDS_for_supercard_dsone.zip)|[Download](https://github.com/gembutterfly/nds_flashcard_theme_opends/raw/master/downloads/openDS_for_supercard_dstwo.zip)||[Download](https://github.com/gembutterfly/nds_flashcard_theme_opends/raw/master/downloads/openDS_for_r4i_wood.zip)|[Download](https://github.com/gembutterfly/nds_flashcard_theme_opends/raw/master/downloads/openDS_for_ysmenu.zip)|
 
 # Important Notice
